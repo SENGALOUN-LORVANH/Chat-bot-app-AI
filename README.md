@@ -1,3 +1,3 @@
 Installation follow:
-npm instll
+npm instll, 
 replace the api key in .env with your actaul api keys
